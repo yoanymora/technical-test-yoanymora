@@ -10,6 +10,6 @@ def letter_count(string):
 
     return(letters_dict)
 
-
+# To test this program with a user input please uncomment the following lines
 # string = raw_input("Give me a string: ")
 # print(letter_count(string))

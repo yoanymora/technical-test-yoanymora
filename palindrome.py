@@ -23,6 +23,6 @@ def is_palindrome(string):
 
     return "The string %s %s a palindrome." % (string, "is" if is_palindrome else "isn't")
 
-# To run this program with a user input please uncomment those lines
+# To test this program with a user input please uncomment the following lines
 # string = raw_input("Give me a string: ")
 # print(is_palindrome(string))

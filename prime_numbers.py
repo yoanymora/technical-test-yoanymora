@@ -31,6 +31,6 @@ def is_prime_number(number):
 
     return "The number %s %s prime." % (number, "is" if is_prime else "isn't")
 
-# To run this program with a user input please uncomment those lines
+# To test this program with a user input please uncomment the following lines
 # number = input("Give me a number: ")
 # print(is_prime_number(number))
