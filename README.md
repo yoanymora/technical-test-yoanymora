@@ -1,7 +1,7 @@
 # Technical Test
 
 # OVERVIEW
-This repo contains 3 files, each with it's respective unittest, belonging to the 3 problems listed in the following email:
+This repo contains 3 files, each with its respective unittest, belonging to the 3 problems listed in the following email:
 
 > Hola Yoany, buen día.
 > Te mando 3 ejercicios como parte del proceso de contratación, favor de programarlo en Python y subirlo a git de tu preferencia y responder este correo con la url del repositorio.
